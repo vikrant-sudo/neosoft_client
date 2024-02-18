@@ -1,0 +1,10 @@
+#main-container{
+    display: flex;
+flex-direction: column;
+row-gap: 34px;
+}
+#item{
+    display: flex;
+    flex-direction: column;
+    row-gap: 5px;
+}
